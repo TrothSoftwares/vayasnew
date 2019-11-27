@@ -972,12 +972,12 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 .dark .fancy-title h3,
 .dark .fancy-title h4,
 .dark .fancy-title h5,
-.dark .fancy-title h6 { background-color: #383838; }
+.dark .fancy-title h6 { background-color: #dcc278; }
 
 .dark .fancy-title.title-double-border:before,
 .dark .fancy-title.title-border:before,
 .dark .fancy-title.title-border-color:before,
-.dark .fancy-title.title-border:before { border-top-color: rgba(255,255,255,0.15); }
+.dark .fancy-title.title-border:before { border-top-color: #dcc278; }
 
 .dark .divider { color: rgba(255,255,255,0.15); }
 

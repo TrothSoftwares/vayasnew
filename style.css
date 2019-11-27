@@ -163,7 +163,7 @@ dl, dt, dd, ol, ul, li {
 
 body {
 	line-height: 1.5;
-	color:#dec17d;
+	color:#dcc278;
 	font-family: 'Lato', sans-serif;
 }
 
@@ -1050,7 +1050,7 @@ body.stretched #header.full-header .container {
 
 #logo a {
 	display: block;
-	color: #000;
+	color: #dcc278;
 }
 
 #logo img {
@@ -1158,7 +1158,7 @@ body.stretched #header.full-header .container {
 	display: block;
 	line-height: 22px;
 	padding: 39px 15px;
-	color: #e58e58;
+	color: #dcc278;
 	font-weight: bold;
 	font-size: 13px;
 	letter-spacing: 1px;
@@ -1249,7 +1249,7 @@ body.no-superfish #primary-menu li:hover > .mega-menu-content { display: block; 
 #primary-menu ul ul li > a {
 	font-size: 12px;
 	font-weight: 700;
-	color: color: #187759;
+	color: #dcc278;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	border: 0;
@@ -1263,9 +1263,9 @@ body.no-superfish #primary-menu li:hover > .mega-menu-content { display: block; 
 #primary-menu ul ul li > a i { vertical-align: middle; }
 
 #primary-menu ul ul li:hover > a {
-	background-color: color: #187759;
+	background-color: #187759;
 	padding-left: 18px;
-	color: color: #187759;
+	color: #187759;
 }
 
 #primary-menu ul ul > li.sub-menu > a,
@@ -8517,9 +8517,9 @@ body:not(.device-touch) .on-hover.i-overlay {
 	height: 40px;
 	font-size: 20px;
 	line-height: 38px !important;
-	color: #555;
+	color: #dcc278;
 	text-shadow: none;
-	border: 1px solid #AAA;
+	border: 1px solid #dcc278;
 	border-radius: 3px;
 	overflow: hidden;
 }
@@ -11397,7 +11397,7 @@ input[type=checkbox]:not(:checked) + label.error { display: block !important; }
 .fancy-title h6 {
 	position: relative;
 	display: inline-block;
-	background-color: #FFF;
+	background-color: #dcc278;
 	padding-right: 15px;
 	margin-bottom: 0;
 }
@@ -11421,12 +11421,12 @@ input[type=checkbox]:not(:checked) + label.error { display: block !important; }
 
 .fancy-title.title-border:before {
 	top: 49%;
-	border-top: 1px solid #EEE;
+	border-top: 1px solid #dcc278;
 }
 
 .fancy-title.title-border-color:before {
 	top: 49%;
-	border-top: 1px solid #F9F9F9;
+	border-top: 3px solid #F9F9F9;
 	opacity: 0.6;
 }
 
